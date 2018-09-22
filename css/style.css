@@ -21,7 +21,7 @@ h3 {
   font-size: 23px;
   color: dimgray;
 }
-p {
+p, p a {
   font-size: 14px;
   color: dimgray;
 }
@@ -29,4 +29,11 @@ h4 {
   background-image: url(../img/the-flatiron-building.png);
   color: white;
   font-size: 23px;
+}
+footer {
+  background-color: dimgray;
+  text-align: left;
+}
+footer p, footer p a {
+  color: white;
 }
